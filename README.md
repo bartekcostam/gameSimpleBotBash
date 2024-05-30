@@ -1,0 +1,2 @@
+# gameSimpleBotBash
+simple bash script 
